@@ -1,0 +1,50 @@
+body{
+    background-color: #101820ff;
+    text-align: center;
+    font-family: varela round;
+    margin: 10px;
+}
+
+.header{
+    background-color: #f2aa4cff;
+    border-radius: 20px;
+    padding:10px;
+}
+
+.desc{
+    background-color: #f2aa4cff;
+    border-radius: 20px;
+    padding: 50px;
+    font-size:larger
+}
+.footer{
+    background-color: #f2aa4cff;
+    border-radius: 20px;
+    padding: 50px;;
+}
+img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+button{
+    margin: 15px;
+    padding: 5px;
+    background-color: #101820ff;
+
+    color: aliceblue;
+    border-radius: 2px;
+}
+
+button a{
+    color: #f2aa4cff;
+}
+
+
+.icons a{
+    margin: 5px;
+}
+
+.copyright{
+    color: #101820ff;
+}
